@@ -1,0 +1,6 @@
+# Tusk Drift
+.tusk/results
+.tusk/logs
+.tusk/setup
+.env
+venv
