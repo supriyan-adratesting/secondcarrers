@@ -2,5 +2,6 @@
 .tusk/results
 .tusk/logs
 .tusk/setup
+.tusk/traces
 .env
 venv
