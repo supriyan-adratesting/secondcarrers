@@ -4,9 +4,9 @@
 name: Tusk Drift Trace Tests
 
 on:
-  push:
-    branches: [master]
   pull_request:
+    branches: [master]
+ 
 
 jobs:
   drift:
