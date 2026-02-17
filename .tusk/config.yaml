@@ -16,6 +16,6 @@ test_execution:
   timeout: 30s
 
 recording:
-  sampling_rate: 1
+  sampling_rate: 0.1
   export_spans: true
-  enable_env_var_recording: true
+  enable_env_var_recording: false
